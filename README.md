@@ -42,11 +42,11 @@ E
 ```Shell
 9,E,5,2.3,8
 ```
-## Lenguage de programación
+## Programming language
 
 ```[ruby]
 // Ruby
 ```
-## Autor
+## Author
 **Raúl González Cruz**
->Ingeniería en Sistemas Computacionales, UDLAP
+>Computer Systems Engineering, UDLAP
